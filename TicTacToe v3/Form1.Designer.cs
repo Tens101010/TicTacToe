@@ -94,7 +94,7 @@
             // 
             this.setDefaultsToolStripMenuItem.Name = "setDefaultsToolStripMenuItem";
             this.setDefaultsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.setDefaultsToolStripMenuItem.Text = "Set Defaults";
+            this.setDefaultsToolStripMenuItem.Text = "vs. Computer";
             this.setDefaultsToolStripMenuItem.Click += new System.EventHandler(this.setDefaultsToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
@@ -115,7 +115,7 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 

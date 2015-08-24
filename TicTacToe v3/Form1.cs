@@ -1,4 +1,13 @@
-﻿using System;
+﻿//Please note: This application is purely for my own education, to run through coding 
+//examples by following tutorials, and to just tinker around with coding.  
+//I know it’s bad practice to heavily comment code (code smell), but comments in all of my 
+//exercises will largely be left intact as this serves me 2 purposes:
+//    I want to retain what my original thought process was at the time
+//    I want to be able to look back in 1..5..10 years to see how far I’ve come
+//    And I enjoy commenting on things, however redundant this may be . . . 
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

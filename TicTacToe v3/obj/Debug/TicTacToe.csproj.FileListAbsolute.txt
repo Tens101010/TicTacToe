@@ -28,3 +28,13 @@ C:\Users\Tens\Desktop\Code Training\TicTacToe v3\obj\Debug\TicTacToe.TicTacToe.r
 C:\Users\Tens\Desktop\Code Training\TicTacToe v3\obj\Debug\TicTacToe.Form2.resources
 C:\Users\Tens\Desktop\Code Training\TicTacToe v3\obj\Debug\TicTacToe.Properties.Resources.resources
 C:\Users\Tens\Desktop\Code Training\TicTacToe v3\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\bin\Debug\TicTacToe.exe.config
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.exe
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.pdb
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\bin\Debug\TicTacToe.exe
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\bin\Debug\TicTacToe.pdb
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.Form2.resources
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Tens\Desktop\C# Training\TicTacToe\TicTacToe v3\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
